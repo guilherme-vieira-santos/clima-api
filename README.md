@@ -134,14 +134,6 @@ CLI Input → WeatherCliRunner → GetWeatherUseCase → OpenWeatherClient → A
 - ❌ Erro de conexão com a API
 - ❌ Resposta vazia da API
 
-## 📜 Licença
-
-Este projeto é de código aberto.
-
-## 👨‍💻 Autor
-
-Desenvolvido com ❤️ em Java e Spring Boot
-
 ---
 
 **Dica:** Para melhor experiência, use um terminal que suporte emojis!
